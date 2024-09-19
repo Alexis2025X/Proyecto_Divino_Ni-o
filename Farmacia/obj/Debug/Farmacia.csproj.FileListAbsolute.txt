@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.FormLogin.resources
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.FormCuentas.resources
+C:\Users\kevin\source\repos\Proyecto_Divino_Ni-o\Farmacia\obj\Debug\Farmacia.FormMenu.resources
